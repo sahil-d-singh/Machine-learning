@@ -1,0 +1,7 @@
+Task: Implement a Credit Card Fraud Detection classifier using a Neural network in PyTorch Framework
+Questions to Answer:
+1. Perform EDA and do any data preprocessing required.
+2. Implement a Neural Network using PyTorch Framework
+a. Plot training loss and validation loss
+b. Plot training accuracy and validation accuracy
+3. Provide observations/reasoning where necessary and a conclusion section at the end of the notebook.
