@@ -1,0 +1,15 @@
+Task: Implement a classifier using a Neural network using Keras Framework to determine gender by eye.
+Questions to Answer:
+1. Perform EDA and do any data preprocessing required.
+2. Implement 3 classification models as below:
+a. Model 1 - Benchmark model (SVM or KNN Classifier from Sklearn)
+b. Model 2 - Multilayer Perceptron Model (do not use Sklearn Algorithms for the model)
+c. Model 3 – CNN model
+d. For the two neural net models (Model 2 & Model 3)
+i. State the intuition behind the architecture of the neural network
+ii. Feel free to use any or all techniques like dropout, L1/L2 regularization, Early Stopping, Data Augmentation, experiment with hyperparameters. This is completely optional, but if you make use of anything please state why you are using it or why do you think it will be helpful.
+iii. Plot training loss and validation loss
+iv. Plot training accuracy and validation accuracy
+3. For each model show the performance metrics (accuracy, precision, recall). You can use classification report from sklearn
+4. Compare the performance of the 3 models
+5. Provide observations/reasoning where necessary and include a conclusion section at the end of the notebook.
