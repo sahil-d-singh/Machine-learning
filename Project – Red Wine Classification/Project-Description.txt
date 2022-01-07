@@ -1,0 +1,8 @@
+Task: Implement a Red wine quality classifier using a Neural network
+Questions to Answer:
+1. Perform EDA, Explore the features using histograms, any data preprocessing required.
+2. Implement a Neural Network using TF Estimator DNN Classifier
+3. Implement a Neural Network using TF.Keras
+a. Plot training loss and validation loss
+b. Plot training accuracy and validation accuracy
+4. Provide observations/reasoning where necessary and a conclusion section at the end of the notebook.
