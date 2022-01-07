@@ -1,0 +1,13 @@
+Dataset: This dataset contains about 17k images from a wide range of natural scenes from all around the world. Dataset can be found here.
+Task: Goal is to identify which kind of scene can the image be categorized into. This is a 6 class problem with the classes being Buildings, Forests, Mountains, Glacier, Street, Sea.
+Implementation:
+- Implement a CNN using the Keras framework to accomplish the task.
+- Perform the below 4 experiments in the notebook. For each experiment perform data augmentation, use relu activations and max pooling.
+- Plot training and validation accuracy, and training and validation loss.
+- Display overall categorical accuracy and display precision, recall, Fscore for each class.
+Experiments:
+Experiment 1: 4 CNN layers, no dropout
+Experiment 2: 4 CNN layers, dropout=0.2, add batchnorm
+Experiment 3: 4 CNN layers, dropout=0.2, add batchnorm, add glorot uniform ie Xavier uniform initialization
+For first 3 experiments use rmsprop optimizer
+Experiment 4: Try to beat the performance of the above 3 models. You can use any technique or a combination of techniques like more CNN layers, dropout, batchnorm, weight initialization, change optimizer, etc
